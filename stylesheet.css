@@ -1,0 +1,34 @@
+body{
+    font-family: Arial;
+}
+
+.navbar-brand{
+    font-size: 35px;
+}
+
+.form-control{
+    width: 800px;
+    border-radius: 30px;
+}
+
+#i {
+    font-size: 1rem;
+    color: #333;
+    top: .50rem;
+    left: .50rem;
+    right: .80rem
+}
+
+input {
+    width: 100%;
+    padding-left: 20rem;
+}
+.button{
+    margin-right: 80px;
+}
+
+button.btn{
+    border-radius: 30px;
+    margin-right: 5px;
+}
+
