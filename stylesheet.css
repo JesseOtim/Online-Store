@@ -1,34 +1,47 @@
-body{
-    font-family: Arial;
+body {
+  font-family: Arial;
 }
 
-.navbar-brand{
-    font-size: 35px;
+.navbar-brand {
+  font-size: 35px;
 }
 
-.form-control{
-    width: 800px;
-    border-radius: 30px;
+#icon {
+  color: darkgreen;
+}
+
+.form-control {
+  width: 800px;
+  border-radius: 30px;
 }
 
 #i {
-    font-size: 1rem;
-    color: #333;
-    top: .50rem;
-    left: .50rem;
-    right: .80rem
+  font-size: 1rem;
+  color: #333;
+  top: 0.5rem;
+  left: 0.5rem;
+  right: 0.8rem;
+  margin-right: 20px;
+}
+
+.position-relative {
+  position: relative;
+}
+
+#spacer ::placeholder {
+  padding-left: 30px;
 }
 
 input {
-    width: 100%;
-    padding-left: 20rem;
+  width: 100%;
+  padding-left: 20rem;
+  cursor: pointer;
 }
-.button{
-    margin-right: 80px;
-}
-
-button.btn{
-    border-radius: 30px;
-    margin-right: 5px;
+.button {
+  margin-right: 80px;
 }
 
+button.btn {
+  border-radius: 30px;
+  margin-right: 5px;
+}
