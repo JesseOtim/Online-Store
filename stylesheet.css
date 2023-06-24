@@ -75,18 +75,30 @@ button.btn {
 
 img{
   border-radius: 30px;
+  border: none!important;
+  outline: 0;
 }
+
+
 
 #GIRL{
   float: right;
+ 
 }
 
 h1{
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
+  font-size: 200px;
+  margin-top: 100px;
+  color: coral;
 }
 
 h2{
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-style: ;
+  font-style: italic;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 130px;
+
 }
